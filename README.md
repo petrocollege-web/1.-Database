@@ -102,3 +102,4 @@
 ### Итог
 Теперь у вас есть база данных `cleaning_portal` с двумя таблицами: `users` и `requests`. Эти таблицы связаны через внешний ключ `user_id`. 
 
+### [Следующая лекция](https://github.com/petrocollege-web/2.-Yii2-install/tree/main)

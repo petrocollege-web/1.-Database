@@ -179,7 +179,8 @@
 3. Вы можете добавить тестовые данные вручную через вкладку **"Вставить"**.
 4. Проверьте связи во вкладке **"Дизайнер"**
 
-![image](https://github.com/user-attachments/assets/4a52b7a0-cb69-4cf4-a391-81ab83f2ec19)
+![image](https://github.com/user-attachments/assets/2569adf0-041d-4234-a53f-d64a23616446)
+
 
 
 ---

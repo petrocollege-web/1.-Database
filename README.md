@@ -130,7 +130,7 @@
    - `custom_service` (TEXT) - По умолчанию: NULL
    - `desired_date` (TIMESTAMP) - По умолчанию: `CURRENT_TIME`
    - `payment_id` (VARCHAR(50))
-   - `status_id` (INT)
+   - `status_id` (INT) - По умолчанию: 1
    - `cancel_reason` (TEXT)
 6. Нажмите **"Сохранить"**.
 
